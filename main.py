@@ -1,5 +1,5 @@
 def calculate_lcm(x, y):  
-    # selecting the greater number  
+    # selecting  the  greater  number  
     if x > y:  
         greater = x  
     else:  
